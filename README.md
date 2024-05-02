@@ -1,3 +1,5 @@
+![Screenshot](screenshot.png)
+
 # Simulate and visualize forest fire dynamics
 
 This script offers a simple model to simulate the dynamic of forest fires through a stochastic approach. Representing the forest as a grid, each cell within this grid can be empty, contain a tree, a burning tree, or the remains of a tree that has burned down. The model captures the interactions between different states—empty, tree, burning, and burned down—to visualize the progression of a forest fire over time. By incorporating mechanisms for tree growth, the spread of fire from burning trees to adjacent ones, and the cycle of destruction and regeneration characteristic of forest fires, the simulation provides an illustration of the ignition process, the spread of fire, and its aftermath over a specified number of steps. The inclusion of random elements mimics the unpredictability of tree growth and fire spread, making each simulation run unique. Users can adjust parameters such as the tree growth rate, fire spread probability, and initial tree density to explore various dynamics of forest fires under different conditions.
